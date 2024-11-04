@@ -1,0 +1,18 @@
+#about{
+    padding:5px;
+    background-color: rgb(239, 234, 227);
+}
+.a{
+    padding: 16px;
+    font-size: large;
+    font-family: serif;
+    text-align: justify;
+    margin-right: 100px;
+    margin-left: 100px;
+    line-height: 40px;
+}
+#headi{
+    margin: 10px;
+    margin-top: 80px;
+    margin-left: 480px;
+}

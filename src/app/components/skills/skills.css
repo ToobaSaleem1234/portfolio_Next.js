@@ -1,0 +1,97 @@
+#skills{
+    height: 650px;
+    background-color: rgb(229, 214, 196);
+}
+#myskill{
+    margin-left: 500px;
+    padding: 10px;
+    padding-top: 100px;
+}
+#skill{
+    text-align: justify;
+    font-size: large;
+    font-family: serif;
+    line-height: 30px;
+    padding: 5px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.abcd{
+    height:6px;
+    background-color: beige;
+    margin: 5px;
+    width: 300px;
+    margin-left: 35px;
+    position: relative;
+    border:2px solid rgb(63, 61, 61);
+}
+.percent{
+    display: flex;
+}
+.html{
+    margin-left: 45px;
+    margin-top: 50px;
+    display: flex;
+    gap:11rem;
+}
+.python{
+    margin-top: 50px;
+    margin-left: 45px;
+    display: flex;
+    gap: 8rem;
+    margin-right: 20px;
+}
+.tail{
+    margin-left: 0px;
+    display: flex;
+    gap:10px;
+    margin-left: 1px;
+}
+#js{
+    margin-left: 20px;
+}
+.percentage{
+    display: flex;
+}
+#color{
+    position: absolute;
+    height: 6px;
+    width: 100%;
+    background-color: rgb(16, 16, 235);
+}
+.me{
+    font-size: small;
+    font-weight: bold;
+    font-style: italic;
+    margin-left: 70px;
+}
+#day{
+    position: absolute;
+    height: 6px;
+    width: 97%;
+    background-color: rgb(16, 16, 235);
+}
+#month{
+    position: absolute;
+    height: 6px;
+    width: 95%;
+    background-color: rgb(16, 16, 235);
+}
+#season{
+    position: absolute;
+    height: 6px;
+    width: 70%;
+    background-color: rgb(16, 16, 235);
+}
+#weather{
+    position: absolute;
+    height: 6px;
+    width: 75%;
+    background-color: rgb(16, 16, 235);
+}
+#nature{
+    position: absolute;
+    height: 6px;
+    width: 90%;
+    background-color: rgb(16, 16, 235);
+}

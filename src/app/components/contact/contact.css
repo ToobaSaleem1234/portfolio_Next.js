@@ -1,0 +1,56 @@
+#contact{
+    height:600px;
+    background-color: antiquewhite;
+}
+#mycss{
+    display: flex;
+}
+#leftside{
+    width:600px;
+    padding-left: 40px;
+    margin-top: 35px;
+}
+#rightside{
+    width: 600px;
+    margin-top: 0px;
+}
+input{
+    margin: 30px;
+    display: block;
+    width:400px;
+    height: 30px;
+    padding: 9px;
+}
+#message{
+    height: 50px;
+    margin-left: 100px;
+    background-color:  rgb(228, 143, 82);
+    color: black;
+    width:300px
+}
+.msg{
+    height:100px;
+    width:400px;
+    margin-bottom: 5px;
+}
+.mycontact{
+    margin-left: 500px;
+    margin-bottom: 50px;
+    padding-top: 70px;
+}
+.ic{
+    display: flex;
+    margin:6px;
+    padding: 12px;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+#ons{
+    display: flex;
+    gap:30px;
+    margin:80px;
+    cursor: pointer;
+}
+#message:hover{
+    background-color: bisque;
+}

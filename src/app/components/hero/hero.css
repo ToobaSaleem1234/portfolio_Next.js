@@ -1,0 +1,46 @@
+#hero{
+    width: 1200px;
+    height:550px;
+    display: flex;
+    font-family: serif;
+    background-color: rgb(237, 228, 216);
+}
+#left{
+    padding-top: 100px;
+    padding-left:50px ;
+    width: 600px;
+    height: 500px;
+}
+#right{
+    width: 600px;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#typing{
+    font-family: serif;
+    text-transform:capitalize;
+    text-align: justify;
+    font-weight: bold;
+    font-size:xx-large;
+}
+hr{
+    margin-top: 20px;
+    width: 250px;
+}
+p{
+    text-align: justify;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+span{
+    font-weight: bold;
+}
+#resume{
+    padding: 10px;
+    margin: 10px;
+    border:2px solid saddlebrown;
+    margin-top: 20px;
+    background-color:  rgb(228, 143, 82);
+}

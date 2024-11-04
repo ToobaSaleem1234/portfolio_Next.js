@@ -1,0 +1,76 @@
+#projects {
+    height: 600px;
+    background-color:rgb(248, 225, 205);
+}
+
+#myproject {
+    margin: 25px;
+    margin-top: 0px;
+    margin-left: 480px;
+    padding: 10px;
+    padding-top: 30px;
+}
+
+.text {
+    text-align: left;
+    font-size: larger;
+    font-family: serif;
+    line-height: 20px;
+    padding: 15px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+#bold {
+    font-size: larger;
+    font-family: serif;
+    font-weight: bold;
+    text-decoration: underline;
+    margin: 5px;
+    padding: 5px;
+    margin-left: 350px;
+    line-height: 30px;
+}
+
+.next_projects {
+    width: 300px;
+    height: 200px;
+    border: 2px solid rgb(52, 46, 46);
+    margin: 20px;
+    margin-left: 50px;
+}
+
+#show_projects {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.cv {
+    margin: 15px;
+    font-size: medium;
+    color: rgb(97, 5, 150);
+}
+
+.srb {
+    margin: 9px;
+    font-size: larger;
+    text-decoration: underline;
+    color: rgb(33, 28, 28);
+}
+
+#view {
+    margin: 10px;
+    margin-left: 55px;
+}
+
+.pictures {
+    display: flex;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    
+
+}
+.next_projects:hover{
+    background-color: rgb(132, 128, 124);
+}

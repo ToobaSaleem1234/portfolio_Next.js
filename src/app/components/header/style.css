@@ -1,0 +1,40 @@
+*{
+    margin:0px;
+    padding: 0px; 
+}
+
+#main{
+    height:40px;
+    display: flex;
+    background-color:bisque;
+}
+#logo{
+    padding: 5px;
+}
+#name{
+    margin: 3px;
+    color: rgb(29, 23, 22);
+}
+#navbar{
+    
+    width: 600px;
+    margin: 8px;
+    margin-left: 18px;
+    margin-right: 55px;
+    display: flex;
+    padding: 4px;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+}
+button{
+    margin:8px;
+    margin-right: 1px;
+    width:120px;
+    padding: 3px;
+    border: solid black 2px;
+    border-radius: 4px;
+    background-color:  rgb(228, 143, 82);
+    color: azure;
+    cursor: pointer;
+}
